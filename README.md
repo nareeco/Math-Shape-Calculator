@@ -2,16 +2,6 @@
 
 A simple calculator for computing geometric shapes: area, perimeter, volume, etc.
 
-* **Usage**
-
-  * 2-D shapes
-  * 3-D solids
-* **Project Structure**
-* **Contributing**
-* **Future Enhancements**
-* **License**
-* **Acknowledgements**
-
 ---
 
 ## Overview
